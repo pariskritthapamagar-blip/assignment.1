@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+
+/* First Div */
+div{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    height: 120px;
+    text-align: left;
+}
+/* Second Div */
+.Second{
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+/* Third Div */
+#Third{
+    background-color: crimson;
+    color: aqua;
+    text-align: right;
+    font-style: italic;
+}
